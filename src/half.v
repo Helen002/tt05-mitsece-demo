@@ -1,7 +1,3 @@
-// Code your design here
-// Half Adder
-// sum = a ^ b
-// carry = ab
 
 module HF(sum,carry,a,b);
   output sum, carry;
